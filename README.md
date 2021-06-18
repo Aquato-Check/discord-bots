@@ -1,7 +1,12 @@
-# Der erste eigene Bot!
+# Bot erstellen: 
 
-## HEY 👋!
+Gehe auf [Discord Developer Portal](https://discord.com/developers/applications) und logge dich ein. Nun gehst du auf "New Application" und bennenst deinen  Bot. Gehe nun auf "Bot" und drücke "Add Bot".
 
-Du brauchst Hilfe bei deinem aller ersten Discord Bot? Dann bist du hier richtig, ich werde mit den Grundlagen beginnen und einen Discord Bot mit vielen Tollen Funktionen erstellen. Diesen kannst du dan auf dich Personalisieren und ihn für deinen eigenen Discord Server nutzen.
+# Bot einladen:
 
-# VIEL SPAß beim Coden!
+gehe nun auf "OAuth2" und wähle unten "bot" aus, nun aktivierst du alle nötigen berrechtigungen und Kopiere den untersten Link. besuche den Link wie eine Webseite und wähle deinen Server und erledige alle schritte. Nun hast du den Bot auf deinen Discord Server.
+
+# Erster Code 
+
+Lade dir [Node.js](https://nodejs.org/en/) und [Visual Studio Code](https://code.visualstudio.com/download) runter und öffne deinen neuen Ordner mit Visual Studio Code. Erstelle eine neue Datei nenne sie auf "index.js" um und eine weitere Datei Namens: "config.json". 
+Kopiere den Code aus den anderen beiden Datein und füge ihn beu den entsprechenden Dateien ein.
