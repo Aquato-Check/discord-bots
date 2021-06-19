@@ -13,6 +13,6 @@ client.on("message", (message) => {
     if(message.content == 'Hey') {
         message.reply('hey')
     }
-})
+});
 
 client.login(config.token)
